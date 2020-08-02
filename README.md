@@ -5,6 +5,12 @@
 - 🌱 I’m currently learning to create cool stuffs with python
 - 🤔 I’m looking for help with Django python web framework
 
+<img
+  align="left"
+  alt="Giltwizy's Github stats"
+  src="https://github-readme-stats.vercel.app/api?username=giltwizy&show_icons=true&hide_border=true"
+ />
+
 <!--
 **giltwizy/giltwizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
