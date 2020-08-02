@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gilton - aka Giltwizy
 
-## Im passionate about Data science
+## Passionate about Data science
 
 - 🌱 I’m currently learning to create cool stuffs with python
 - 🤔 I’m looking for help with Django python web framework
