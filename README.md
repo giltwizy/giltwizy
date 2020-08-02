@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Gilton - aka Giltwizy
+
+## Im passionate about Data science
+
+- 🌱 I’m currently learning to create cool stuffs with python
+- 🤔 I’m looking for help with Django python web framework
 
 <!--
 **giltwizy/giltwizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
