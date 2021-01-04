@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gilton - aka Giltwizy
+### Hi there 👋 I'm Giltwizy
 
 ## Passionate about Data science
 
