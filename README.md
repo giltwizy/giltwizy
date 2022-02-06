@@ -18,7 +18,7 @@
 
 <img
   align="left"
-  alt="Giltwizy's Github stats"
+  alt="Gilton's Github stats"
   src="https://github-readme-stats.vercel.app/api?username=giltwizy&show_icons=true&hide_border=true"
  />
  
@@ -26,7 +26,7 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giltwizy&hide=TeX&layout=compact)
  
  ### 📫 Let's Connect:
-[<img align="left" alt="Giltwizy | YouTube" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:giltwizy@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[<img align="left" alt="Gilton | YouTube" width="66px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:giltwizy@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [<img align="left" alt="Giltwizy | YouTube" width="88px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/giltwizy)
 [<img align="left" alt="giltwizy | LinkedIn" width="86px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/giltwizy/)
 
