@@ -11,11 +11,11 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 ```js
-class BackEndDeveloper {
+class DevOps Engineer {
     constructor() {
         this.name = "Gilton";
-        this.age = 28;
-        this.role = "Backend Developer";
+        this.age = 30;
+        this.role = "Devops Engineer";
         this.language_spoken = ["en", "sw"];
     }
 
