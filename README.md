@@ -11,7 +11,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 ```js
-class DevOps Engineer {
+class DevOps_Engineer {
     constructor() {
         this.name = "Gilton";
         this.age = 30;
@@ -24,7 +24,7 @@ class DevOps Engineer {
     }
 }
 
-const me = new BackEndDeveloper();
+const me = new DevOps_Engineer();
 me.sayHi();
 ```
 
